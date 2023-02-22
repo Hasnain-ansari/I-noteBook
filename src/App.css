@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+/* css for navbar in nvabar.js */
+.navbar-expand-lg .navbar-nav {
+  padding-left: 13px;
+}
+
+/* css for checkbox in home,js */
+.form-check .form-check-input {
+  float: left;
+  margin-right: 0.5em;
+}
